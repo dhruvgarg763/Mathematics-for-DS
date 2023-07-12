@@ -1,6 +1,4 @@
 # Mathematics-for-data-Science
-Repository for Stamatics Project 22' - Mathematics for Data Science 
-
 ### WEEK-1
 
 * There are three jupyter notebooks in the week-1 assignment.
